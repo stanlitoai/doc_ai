@@ -110,6 +110,12 @@ with st.sidebar:
         Extracting insights from documents made effortless. Our AI solution empowers businesses with accurate and insightful descriptions, enhancing decision-making and productivity.
         """
     )
+    st.markdown(
+    """
+    ## Contact Information
+    Email: mosesstanley99@gmail.com
+    """
+    )
 
 # Separator with improved styling
 st.markdown(
