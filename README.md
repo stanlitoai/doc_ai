@@ -14,13 +14,13 @@ An AI product for describing product images.
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/Danselem/pixcrypt.git
+    https://github.com/Stanlito-AI/doc_ai.git
     ```
 
 2. Change to the cloned repository directory:
 
     ```bash
-    cd pixcrypt
+    cd doc_ai
     ```
 
 3. Create a virtual environment
@@ -46,7 +46,7 @@ An AI product for describing product images.
 
 ### Option 1: Running the Streamlit App Locally
 
-1. Run the Streamlit app:
+1. Run the Streamlit streamlit_app:
 
     ```bash
     streamlit run app.py
