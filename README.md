@@ -45,7 +45,7 @@
 1. Run the Streamlit streamlit_app:
 
     ```bash
-    streamlit run app.py
+    streamlit run streamlit_app.py
     ```
 
 2. Open a web browser and navigate to `http://localhost:8501` to access the app running inside the container.
