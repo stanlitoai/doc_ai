@@ -1,8 +1,4 @@
-# PixCrypt GPT
-An AI product for describing product images.
 
-
-### Version 0.1
 
    Initial release of the application.
 </details>
